@@ -1,14 +1,14 @@
 {
   "metricRules": {
-    "version": "2026-04-11.1",
-    "url": "https://gitee.com/xxx/raw/master/data/metricRules.json"
+    "version": "2026-04-15.1",
+    "url": "https://raw.githubusercontent.com/EasonZhiiii/database/main/metricRules.json"
   },
   "privateInfo": {
-    "version": "2025-12-01.0",
-    "url": "https://gitee.com/xxx/raw/master/data/privateInfo.json"
+    "version": "2026-04-15.1",
+    "url": "https://raw.githubusercontent.com/EasonZhiiii/database/main/privateInfo.json"
   },
   "navHistory": {
-    "version": "2026-04-11.0",
-    "url": "https://gitee.com/xxx/raw/master/data/navHistory.json"
+    "version": "2026-04-15.1",
+    "url": "https://raw.githubusercontent.com/EasonZhiiii/database/main/navHistory.json"
   }
 }
